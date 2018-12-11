@@ -67,3 +67,8 @@ Un bon exemple est le service Gmail de Google, c'est ce qu'on appelle une "one p
 
     // la commande send permet d'envoyer la requete
     xhttp.send();
+
+
+
+    Note : Une alternative à XMLHttpRequest() existe, fetch() celle ci étant encore experimentale,
+    elle ne sera pas utilisée pour le moment.
