@@ -12,7 +12,7 @@ function ajaxRequest()
 
     };
 
-    xhttp.open("GET", "data.txt", true);
+    xhttp.open("GET", "exercice.php", true);
 
     xhttp.send();
 

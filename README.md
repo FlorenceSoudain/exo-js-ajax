@@ -26,7 +26,7 @@ retourné au visiteur, si le visiteur souhaite visiter une autre page, il clique
 Ajax est une technologie qui permet de s'affranchir de ce fonctionnement.
 
 Avec Ajax, le visiteur se rends sur une page définie monsite.extension/page.extension, le click sur un lien déclenche alors
-une requete ajax qui va récuperer les informations souhaitées puis mettre à jour la page existante, il deviens alors inutile
+une requete ajax qui va récuperer les informations souhaitées puis mettre à jour la page existante, il devient alors inutile
  pour le visiteur de recharger l'ensemble de la page.
 
 Un bon exemple est le service Gmail de Google, c'est ce qu'on appelle une "one page app"
