@@ -20,7 +20,7 @@ votre javascript pour des raisons de sécurité
 
  Théorie :
 
- Lorsque vous lancez une page web , vous entrez son adresse : monsite.extension/page.extension , du code est éxécugé puis
+ Lorsque vous lancez une page web , vous entrez son adresse : monsite.extension/page.extension , du code est éxécuté puis
 retourné au visiteur, si le visiteur souhaite visiter une autre page, il clique sur un lien etc...
 
 Ajax est une technologie qui permet de s'affranchir de ce fonctionnement.
